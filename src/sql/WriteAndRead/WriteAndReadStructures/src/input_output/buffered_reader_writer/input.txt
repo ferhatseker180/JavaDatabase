@@ -1,0 +1,1 @@
+Bu bir Buffer Reader deneme metnidir! Bu bir Buffered Writer deneme metnidir!
